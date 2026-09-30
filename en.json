@@ -67,5 +67,8 @@
    "minor": {
     "till": "date",
     "male": "female"
+  },
+  "newplayer": {
+    "nmm":"Torque"
   }
 }
