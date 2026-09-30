@@ -1,0 +1,67 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "copy": "Copy",
+    "copied": "Copied to clipboard"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "apiKeys": "API Keys",
+    "logout": "Log out"
+  },
+  "auth": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email address",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "invalidCredentials": "Invalid email or password"
+  },
+  "apiKeys": {
+    "title": "API Keys",
+    "createKey": "Generate API key",
+    "keyName": "Key name",
+    "keyNamePlaceholder": "e.g. Developer CLI",
+    "createdAt": "Created on {{date}}",
+    "created": "New API key created successfully.",
+    "retrieved": "Existing API key retrieved.",
+    "copyWarning": "Store this key securely. Anyone with it can access your account."
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "minLength": "Must be at least {{count}} characters",
+    "maxLength": "Must be at most {{count}} characters"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Check your connection.",
+    "notFound": "The requested resource was not found",
+    "unauthorized": "You are not authorized to perform this action",
+    "server": "Server error. Please try again later."
+  },
+  "empty": {
+    "noData": "Nothing here yet",
+    "noResults": "No results found"
+  },
+  "new": {
+    "name": "customer",
+    "age": 26
+  }
+}
