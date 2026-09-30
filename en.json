@@ -63,5 +63,9 @@
   "new": {
     "name": "customer",
     "age": 26
+  },
+   "minor": {
+    "till": "date",
+    "male": "female"
   }
 }
