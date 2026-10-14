@@ -1,74 +1,74 @@
 {
   "common": {
-    "loading": "Loading...",
-    "save": "Save",
-    "cancel": "Cancel",
-    "delete": "Delete",
-    "edit": "Edit",
-    "create": "Create",
-    "search": "Search",
-    "submit": "Submit",
-    "back": "Back",
-    "next": "Next",
-    "close": "Close",
-    "confirm": "Confirm",
-    "yes": "Yes",
-    "no": "No",
-    "copy": "Copy",
-    "copied": "Copied to clipboard"
+    "loading": "लोड हो रहा है...",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "create": "सृजन",
+    "search": "खोजें",
+    "submit": "प्रस्तुत करें",
+    "back": "वापस",
+    "next": "अगला",
+    "close": "बंद करें",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "copy": "कॉपी करें",
+    "copied": "क्लिपबोर्ड पर कॉपी किया गया"
   },
   "nav": {
-    "home": "Home",
-    "dashboard": "Dashboard",
-    "settings": "Settings",
-    "profile": "Profile",
-    "apiKeys": "API Keys",
-    "logout": "Log out"
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफ़ाइल",
+    "apiKeys": "एपीआई कुंजी",
+    "logout": "लॉग आउट"
   },
   "auth": {
-    "login": "Log in",
-    "signup": "Sign up",
-    "email": "Email address",
-    "password": "Password",
-    "forgotPassword": "Forgot password?",
-    "invalidCredentials": "Invalid email or password"
+    "login": "लॉग इन",
+    "signup": "साइन अप",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "invalidCredentials": "अमान्य ईमेल या पासवर्ड"
   },
   "apiKeys": {
-    "title": "API Keys",
-    "createKey": "Generate API key",
-    "keyName": "Key name",
-    "keyNamePlaceholder": "e.g. Developer CLI",
-    "createdAt": "Created on {{date}}",
-    "created": "New API key created successfully.",
-    "retrieved": "Existing API key retrieved.",
-    "copyWarning": "Store this key securely. Anyone with it can access your account."
+    "title": "एपीआई कुंजी",
+    "createKey": "एपीआई कुंजी उत्पन्न करें",
+    "keyName": "कुंजी का नाम",
+    "keyNamePlaceholder": "उदाहरण के लिए डेवलपर सीएलआई",
+    "createdAt": "{{date}} पर बनाया गया",
+    "created": "नई एपीआई कुंजी सफलतापूर्वक बनाई गई।",
+    "retrieved": "मौजूदा एपीआई कुंजी प्राप्त की गई।",
+    "copyWarning": "इस कुंजी को सुरक्षित रूप से संग्रहीत करें। इसके साथ कोई भी आपके खाते तक पहुंच सकता है।"
   },
   "validation": {
-    "required": "This field is required",
-    "invalidEmail": "Please enter a valid email address",
-    "minLength": "Must be at least {{count}} characters",
-    "maxLength": "Must be at most {{count}} characters"
+    "required": "यह फ़ील्ड आवश्यक है",
+    "invalidEmail": "कृपया एक मान्य ईमेल पता दर्ज करें",
+    "minLength": "कम से कम {{count}} वर्ण होने चाहिए",
+    "maxLength": "अधिकतम {{count}} वर्ण होने चाहिए"
   },
   "errors": {
-    "generic": "Something went wrong. Please try again.",
-    "network": "Network error. Check your connection.",
-    "notFound": "The requested resource was not found",
-    "unauthorized": "You are not authorized to perform this action",
-    "server": "Server error. Please try again later."
+    "generic": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+    "network": "नेटवर्क त्रुटि। अपने कनेक्शन की जाँच करें।",
+    "notFound": "अनुरोधित संसाधन नहीं मिला",
+    "unauthorized": "आप इस क्रिया को करने के लिए अधिकृत नहीं हैं",
+    "server": "सर्वर त्रुटि। कृपया बाद में पुनः प्रयास करें।"
   },
   "empty": {
-    "noData": "Nothing here yet",
-    "noResults": "No results found"
+    "noData": "यहां अभी कुछ नहीं है",
+    "noResults": "कोई परिणाम नहीं मिला"
   },
   "new": {
-    "name": "customer",
-    "age": 26
+    "name": "ग्राहक",
+    "age": "26"
   },
-   "minor": {
-    "till": "date",
-    "male": "female"
+  "minor": {
+    "till": "तारीख",
+    "male": "महिला"
   },
   "newplayer": {
-    "nmm":"Torque"
+    "nmm": "टॉर्क"
   }
 }
